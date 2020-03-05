@@ -6,9 +6,9 @@ from collections import Counter
 import json
 
 # 输入输出文件信息
-origanword_file = "Doc/八大报告.txt"
+origanword_file = "Doc/九大报告.txt"
 stopword_file = "Doc//stopwords.dat"
-outputword_file = "JSON//NCCPC-8.json"
+outputword_file = "JSON//NCCPC-9.json"
 
 
 # 按行读取文件，返回文件的行字符串列表
